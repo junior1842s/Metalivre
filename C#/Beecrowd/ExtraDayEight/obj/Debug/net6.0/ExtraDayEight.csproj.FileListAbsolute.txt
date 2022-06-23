@@ -1,0 +1,15 @@
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayEight\bin\Debug\net6.0\ExtraDayEight.exe
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayEight\bin\Debug\net6.0\ExtraDayEight.deps.json
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayEight\bin\Debug\net6.0\ExtraDayEight.runtimeconfig.json
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayEight\bin\Debug\net6.0\ExtraDayEight.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayEight\bin\Debug\net6.0\ExtraDayEight.pdb
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayEight\obj\Debug\net6.0\ExtraDayEight.csproj.AssemblyReference.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayEight\obj\Debug\net6.0\ExtraDayEight.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayEight\obj\Debug\net6.0\ExtraDayEight.AssemblyInfoInputs.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayEight\obj\Debug\net6.0\ExtraDayEight.AssemblyInfo.cs
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayEight\obj\Debug\net6.0\ExtraDayEight.csproj.CoreCompileInputs.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayEight\obj\Debug\net6.0\ExtraDayEight.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayEight\obj\Debug\net6.0\refint\ExtraDayEight.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayEight\obj\Debug\net6.0\ExtraDayEight.pdb
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayEight\obj\Debug\net6.0\ExtraDayEight.genruntimeconfig.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayEight\obj\Debug\net6.0\ref\ExtraDayEight.dll

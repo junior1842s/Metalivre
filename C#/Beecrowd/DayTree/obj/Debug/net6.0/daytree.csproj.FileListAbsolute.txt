@@ -1,0 +1,15 @@
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\daytree\bin\Debug\net6.0\daytree.exe
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\daytree\bin\Debug\net6.0\daytree.deps.json
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\daytree\bin\Debug\net6.0\daytree.runtimeconfig.json
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\daytree\bin\Debug\net6.0\daytree.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\daytree\bin\Debug\net6.0\daytree.pdb
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\daytree\obj\Debug\net6.0\daytree.csproj.AssemblyReference.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\daytree\obj\Debug\net6.0\daytree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\daytree\obj\Debug\net6.0\daytree.AssemblyInfoInputs.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\daytree\obj\Debug\net6.0\daytree.AssemblyInfo.cs
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\daytree\obj\Debug\net6.0\daytree.csproj.CoreCompileInputs.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\daytree\obj\Debug\net6.0\daytree.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\daytree\obj\Debug\net6.0\refint\daytree.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\daytree\obj\Debug\net6.0\daytree.pdb
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\daytree\obj\Debug\net6.0\daytree.genruntimeconfig.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\daytree\obj\Debug\net6.0\ref\daytree.dll

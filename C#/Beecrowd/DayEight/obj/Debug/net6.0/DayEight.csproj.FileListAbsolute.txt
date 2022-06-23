@@ -1,0 +1,15 @@
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayEight\obj\Debug\net6.0\DayEight.csproj.AssemblyReference.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayEight\obj\Debug\net6.0\DayEight.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayEight\obj\Debug\net6.0\DayEight.AssemblyInfoInputs.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayEight\obj\Debug\net6.0\DayEight.AssemblyInfo.cs
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayEight\obj\Debug\net6.0\DayEight.csproj.CoreCompileInputs.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayEight\bin\Debug\net6.0\DayEight.exe
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayEight\bin\Debug\net6.0\DayEight.deps.json
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayEight\bin\Debug\net6.0\DayEight.runtimeconfig.json
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayEight\bin\Debug\net6.0\DayEight.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayEight\bin\Debug\net6.0\DayEight.pdb
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayEight\obj\Debug\net6.0\DayEight.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayEight\obj\Debug\net6.0\refint\DayEight.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayEight\obj\Debug\net6.0\DayEight.pdb
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayEight\obj\Debug\net6.0\DayEight.genruntimeconfig.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayEight\obj\Debug\net6.0\ref\DayEight.dll

@@ -1,0 +1,15 @@
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayNine\bin\Debug\net6.0\DayNine.exe
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayNine\bin\Debug\net6.0\DayNine.deps.json
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayNine\bin\Debug\net6.0\DayNine.runtimeconfig.json
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayNine\bin\Debug\net6.0\DayNine.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayNine\bin\Debug\net6.0\DayNine.pdb
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayNine\obj\Debug\net6.0\DayNine.csproj.AssemblyReference.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayNine\obj\Debug\net6.0\DayNine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayNine\obj\Debug\net6.0\DayNine.AssemblyInfoInputs.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayNine\obj\Debug\net6.0\DayNine.AssemblyInfo.cs
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayNine\obj\Debug\net6.0\DayNine.csproj.CoreCompileInputs.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayNine\obj\Debug\net6.0\DayNine.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayNine\obj\Debug\net6.0\refint\DayNine.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayNine\obj\Debug\net6.0\DayNine.pdb
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayNine\obj\Debug\net6.0\DayNine.genruntimeconfig.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayNine\obj\Debug\net6.0\ref\DayNine.dll

@@ -1,0 +1,15 @@
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayFive\obj\Debug\net6.0\DayFive.csproj.AssemblyReference.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayFive\obj\Debug\net6.0\DayFive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayFive\obj\Debug\net6.0\DayFive.AssemblyInfoInputs.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayFive\obj\Debug\net6.0\DayFive.AssemblyInfo.cs
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayFive\obj\Debug\net6.0\DayFive.csproj.CoreCompileInputs.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayFive\bin\Debug\net6.0\DayFive.exe
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayFive\bin\Debug\net6.0\DayFive.deps.json
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayFive\bin\Debug\net6.0\DayFive.runtimeconfig.json
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayFive\bin\Debug\net6.0\DayFive.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayFive\bin\Debug\net6.0\DayFive.pdb
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayFive\obj\Debug\net6.0\DayFive.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayFive\obj\Debug\net6.0\refint\DayFive.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayFive\obj\Debug\net6.0\DayFive.pdb
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayFive\obj\Debug\net6.0\DayFive.genruntimeconfig.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayFive\obj\Debug\net6.0\ref\DayFive.dll

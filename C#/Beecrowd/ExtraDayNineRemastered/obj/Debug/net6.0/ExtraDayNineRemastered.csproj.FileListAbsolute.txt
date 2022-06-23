@@ -1,0 +1,15 @@
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayNineRemastered\bin\Debug\net6.0\ExtraDayNineRemastered.exe
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayNineRemastered\bin\Debug\net6.0\ExtraDayNineRemastered.deps.json
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayNineRemastered\bin\Debug\net6.0\ExtraDayNineRemastered.runtimeconfig.json
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayNineRemastered\bin\Debug\net6.0\ExtraDayNineRemastered.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayNineRemastered\bin\Debug\net6.0\ExtraDayNineRemastered.pdb
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayNineRemastered\obj\Debug\net6.0\ExtraDayNineRemastered.csproj.AssemblyReference.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayNineRemastered\obj\Debug\net6.0\ExtraDayNineRemastered.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayNineRemastered\obj\Debug\net6.0\ExtraDayNineRemastered.AssemblyInfoInputs.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayNineRemastered\obj\Debug\net6.0\ExtraDayNineRemastered.AssemblyInfo.cs
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayNineRemastered\obj\Debug\net6.0\ExtraDayNineRemastered.csproj.CoreCompileInputs.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayNineRemastered\obj\Debug\net6.0\ExtraDayNineRemastered.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayNineRemastered\obj\Debug\net6.0\refint\ExtraDayNineRemastered.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayNineRemastered\obj\Debug\net6.0\ExtraDayNineRemastered.pdb
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayNineRemastered\obj\Debug\net6.0\ExtraDayNineRemastered.genruntimeconfig.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\ExtraDayNineRemastered\obj\Debug\net6.0\ref\ExtraDayNineRemastered.dll

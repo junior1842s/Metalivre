@@ -1,0 +1,15 @@
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayTwo\bin\Debug\net6.0\DayTwo.exe
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayTwo\bin\Debug\net6.0\DayTwo.deps.json
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayTwo\bin\Debug\net6.0\DayTwo.runtimeconfig.json
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayTwo\bin\Debug\net6.0\DayTwo.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayTwo\bin\Debug\net6.0\DayTwo.pdb
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayTwo\obj\Debug\net6.0\DayTwo.csproj.AssemblyReference.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayTwo\obj\Debug\net6.0\DayTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayTwo\obj\Debug\net6.0\DayTwo.AssemblyInfoInputs.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayTwo\obj\Debug\net6.0\DayTwo.AssemblyInfo.cs
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayTwo\obj\Debug\net6.0\DayTwo.csproj.CoreCompileInputs.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayTwo\obj\Debug\net6.0\DayTwo.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayTwo\obj\Debug\net6.0\refint\DayTwo.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayTwo\obj\Debug\net6.0\DayTwo.pdb
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayTwo\obj\Debug\net6.0\DayTwo.genruntimeconfig.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DayTwo\obj\Debug\net6.0\ref\DayTwo.dll

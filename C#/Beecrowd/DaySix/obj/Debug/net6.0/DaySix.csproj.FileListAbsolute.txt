@@ -1,0 +1,15 @@
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DaySix\bin\Debug\net6.0\DaySix.exe
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DaySix\bin\Debug\net6.0\DaySix.deps.json
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DaySix\bin\Debug\net6.0\DaySix.runtimeconfig.json
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DaySix\bin\Debug\net6.0\DaySix.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DaySix\bin\Debug\net6.0\DaySix.pdb
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DaySix\obj\Debug\net6.0\DaySix.csproj.AssemblyReference.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DaySix\obj\Debug\net6.0\DaySix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DaySix\obj\Debug\net6.0\DaySix.AssemblyInfoInputs.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DaySix\obj\Debug\net6.0\DaySix.AssemblyInfo.cs
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DaySix\obj\Debug\net6.0\DaySix.csproj.CoreCompileInputs.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DaySix\obj\Debug\net6.0\DaySix.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DaySix\obj\Debug\net6.0\refint\DaySix.dll
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DaySix\obj\Debug\net6.0\DaySix.pdb
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DaySix\obj\Debug\net6.0\DaySix.genruntimeconfig.cache
+D:\Users\Metalivre\Documents\CODIGOS\Curse4Hours\DaySix\obj\Debug\net6.0\ref\DaySix.dll
